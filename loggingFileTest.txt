@@ -1,0 +1,72 @@
+
+USER::Fightin' Texas Aggie	DATE::26-Apr-2018
+===DATA FILE UPLOADED BY USER::test.txt===
+-----Linear Fit with Intercept Performed-----
+Equation:: y =140*X + -306
+Coefficient (m)::140
+Constant (b)::-306
+MSE::15606
+R::0.93183
+R^2::0.86831
+-----Linear Fit No Intercept Performed-----
+Equation:: y =86*X
+Coefficient (m)::86
+MSE::34884
+R::0.93183
+R^2::0.86831
+-----Quadriatic Fit Performed-----
+Equation:: y = +27 X^2 -103 X^1 +99 X^0
+Coefficient (a)::27
+Coefficient (b)::-103
+Coefficient (c)::99
+MSE::297
+-----Cubic Fit Performed-----
+Equation:: y = +2 X^3 -1.61e-13 X^2 +8.358e-13 X^1 -1.261e-12 X^0
+Coefficient (a)::2
+Coefficient (b)::-1.6102e-13
+Coefficient (c)::8.3579e-13
+Coefficient (d)::-1.2606e-12
+MSE::1.1868e-25
+-----Quartic Fit Performed-----
+Equation:: y = +1.095e-15 X^4 +2 X^3 +1.35e-13 X^2 -3.361e-13 X^1 +2.665e-13 X^0
+Coefficient (a)::1.0949e-15
+Coefficient (b)::2
+Coefficient (c)::1.3502e-13
+Coefficient (d)::-3.3613e-13
+Coefficient (e)::2.6651e-13
+MSE::2.5082e-27
+-----5th Degree Fit Performed-----
+Equation:: y = -1.43e-15 X^5 +2.962e-14 X^4 +2 X^3 +6.28e-13 X^2 -6.216e-13 X^1 +0 X^0
+Coefficient (a)::-1.4303e-15
+Coefficient (b)::2.962e-14
+Coefficient (c)::2
+Coefficient (d)::6.2796e-13
+Coefficient (e)::-6.2158e-13
+Coefficient (f)::0
+MSE::9.7528e-27
+-----Exponential Fit Performed-----
+Equation y =0.8258*exp(0.9538*X)
+Coefficient (m)::0.8258
+Coefficient (b)::0.95376
+MSE::105368.5991
+-----Power Fit Performed-----
+Equation:: y =3*X^0.6931
+Coefficient (m)::3
+Coefficient (b)::0.69315
+MSE::4.6107e-26
+------Trig Fit Performed-----
+Equation:: y =316.7 +174.9*cos(X)
+Coefficient (m)::174.8653
+Constant (b)::316.7266
+MSE::629796.205
+-----Logarithmic Fit Performed-----
+Equation:: y =419.4*log(X) + -232
+Coefficient (m)::419.424
+Constant (b)::-231.9781
+MSE::42348.4714
+-----Reciprocal Fit Performed-----
+Equation:: y =1/(-0.04584*X + 0.281)
+Coefficient (m)::-0.045843
+Constant (b)::0.28099
+MSE::214627.5899
+Exit Button Pressed By User
